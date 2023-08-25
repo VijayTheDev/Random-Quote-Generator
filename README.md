@@ -1,2 +1,3 @@
 # Random-Quote-Generator
-Random Quote Generator
+## Coding Raja Technologies
+## Web Development Internship
