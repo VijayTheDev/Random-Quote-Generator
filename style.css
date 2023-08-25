@@ -67,7 +67,11 @@ blockquote footer {
 	height: 40px;
 	border:none;
 	background:#490A3D;
-	}
+}
+
+.btn-primary:focus, .btn-primary:active {
+	outline: none !important;
+}
 
 @media only screen and (max-width: 768px){  
     #quotetext {font-size:25px; }
